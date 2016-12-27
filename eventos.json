@@ -20,7 +20,7 @@
                 "FechaFin": "2015-10-20 23:59:00",
                 "FechaActualizacion": "2015-10-20 11:10:00",
                 "Autor": "Transporteinforma",
-                "TransporteAfectado": "transporte_terrestre",
+                "TransporteAfectado": "transporte_terrestre"
             },
             {
                  "ID": "219283",
@@ -40,7 +40,7 @@
                 "FechaFin": "2015-10-20 23:59:00",
                 "FechaActualizacion": "2015-10-20 11:10:00",
                 "Autor": "Transporteinforma",
-                "TransporteAfectado": "transporte_terrestre",
+                "TransporteAfectado": "transporte_terrestre"
             }
         ]
     }
